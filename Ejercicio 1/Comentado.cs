@@ -20,6 +20,8 @@
      Alfajor deberia ser el responsable de hacer el calculo de precios o delegarle esta responsabilidad a otra clase que lo haga.
 
    
+   Solucion:
+   El alfajor deberia calcular su precio y se deberia crear una nueva clase que calcule el cambio de moneda.
    
 
 */

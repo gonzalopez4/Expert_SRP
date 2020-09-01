@@ -1,7 +1,7 @@
 ﻿
 
 /* 
-   • Kiosco tiene dos responsabilidades, verificar si se puede comprar y hacer el cambio de moneda.
+   • Kiosco tiene dos responsabilidades (motivos de cambio), verificar si se puede comprar y hacer el cambio de moneda.
    Kiosco no cumple con el patron SRP debido a que las responsabilidades asignadas no 
    estan relacionadas con solo una funcionalidad sino que estan todas relacionadas,
    Por ejemplo el dinero podria cambiar a dolares y ya afectaria. Por lo cual habria que

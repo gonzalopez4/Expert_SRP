@@ -1,15 +1,20 @@
 ﻿
 
-/* Kiosco no cumple con el patron SRP debido a que las responsabilidades asignadas no 
+/* 
+   Kiosco tiene dos responsabilidades, verificar si se puede comprar y hacer el cambio de moneda.
+   Kiosco no cumple con el patron SRP debido a que las responsabilidades asignadas no 
    estan relacionadas con solo una funcionalidad sino que estan todas relacionadas,
-   El dinero podria cambiar por ejemplo a dolares y ya afectaria.
+   Por ejemplo el dinero podria cambiar a dolares y ya afectaria. Por lo cual habria que
+   independizar estas responsabilidades a la clase correspondiente.
 
-   Alfajor si cumple SRP, tiene solo una razon para cambiar.
+   Alfajor si cumple SRP, alfajor no tiene mas una razon para cambiar.
 
    Kiosco no cumple el patron Expert debido a que no se le otorga la informacion al experto 
    en la informacion.
 
    Alfajor si cumple con el patron Expert. 
+   
+   
 
 */
 

@@ -16,7 +16,7 @@
    a que no es el experto en esta informacion.
 
 
-   • Alfajor si cumple con el patron Expert. 
+   • Alfajor si cumple con el patron Expert. Es el experto en la informacion de la responsabilidad que tiene.
      Alfajor deberia ser el responsable de hacer el calculo de precios o delegarle esta responsabilidad a otra clase que lo haga.
 
    

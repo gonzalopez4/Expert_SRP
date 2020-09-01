@@ -7,16 +7,18 @@
    Por ejemplo el dinero podria cambiar a dolares y ya afectaria. Por lo cual habria que
    independizar estas responsabilidades a la clase correspondiente.
 
-   • Alfajor si cumple SRP, alfajor no tiene mas una razon para cambiar.
+   • Alfajor si cumple SRP, alfajor no tiene mas una razon para cambiar. 
 
 
-   •Kiosco no cumple el patron Expert debido a que no se le otorga la informacion al experto 
+   • Kiosco no cumple el patron Expert debido a que no se le otorga la informacion al experto 
    en la informacion.
    El tipo de cambio deberia ser una clase a parte para no generar conflicto con Kiosco debido 
    a que no es el experto en esta informacion.
 
 
-   •Alfajor si cumple con el patron Expert. 
+   • Alfajor si cumple con el patron Expert. 
+     Alfajor deberia ser el responsable de hacer el calculo de precios o delegarle esta responsabilidad a otra clase que lo haga.
+
    
    
 

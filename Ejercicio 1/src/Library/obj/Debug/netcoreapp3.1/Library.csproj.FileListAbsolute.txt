@@ -1,0 +1,4 @@
+C:\Users\Administrador\Desktop\PII_Ejercicios_Expert_SRP-master\Ejercicio 1\src\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\PII_Ejercicios_Expert_SRP-master\Ejercicio 1\src\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\PII_Ejercicios_Expert_SRP-master\Ejercicio 1\src\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\PII_Ejercicios_Expert_SRP-master\Ejercicio 1\src\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache

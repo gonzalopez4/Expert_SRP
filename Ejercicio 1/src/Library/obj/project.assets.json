@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\PII_Ejercicios_Expert_SRP-master\\Ejercicio 1\\src\\Library\\Library.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\Ejercicios SRP-Expert\\Ejercicio 1\\src\\library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "C:\\Users\\Administrador\\Desktop\\PII_Ejercicios_Expert_SRP-master\\Ejercicio 1\\src\\Library\\Library.csproj",
+      "projectPath": "C:\\Users\\Administrador\\Desktop\\Ejercicios SRP-Expert\\Ejercicio 1\\src\\library\\Library.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\Desktop\\PII_Ejercicios_Expert_SRP-master\\Ejercicio 1\\src\\Library\\obj\\",
+      "outputPath": "C:\\Users\\Administrador\\Desktop\\Ejercicios SRP-Expert\\Ejercicio 1\\src\\library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"

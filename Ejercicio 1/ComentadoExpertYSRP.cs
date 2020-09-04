@@ -1,11 +1,9 @@
 ﻿
 
 /* 
-   • Kiosco tiene dos responsabilidades (motivos de cambio), verificar si se puede comprar y hacer el cambio de moneda.
-   Kiosco no cumple con el patron SRP debido a que las responsabilidades asignadas no 
-   estan relacionadas con solo una funcionalidad sino que estan todas relacionadas,
-   Por ejemplo el dinero podria cambiar a dolares y ya afectaria. Por lo cual habria que
-   independizar estas responsabilidades a la clase correspondiente.
+   • Kiosco tiene dos responsabilidades (o dos razones de cambio) asociadas a esta misma clase, verificar si se puede comprar y hacer el cambio de moneda.
+   Kiosco no cumple con el patron SRP debido a que las responsabilidades asignadas no estan relacionadas con solo una funcionalidad.
+   Por ejemplo el dinero podria cambiar a dolares y ya afectaria. Por lo cual habria que independizar estas responsabilidades a la clase correspondiente.
 
    • Alfajor si cumple SRP, alfajor no tiene mas una razon para cambiar. 
 

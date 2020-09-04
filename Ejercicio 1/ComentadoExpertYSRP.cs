@@ -8,14 +8,14 @@
    • Alfajor si cumple SRP, alfajor no tiene mas una razon para cambiar. 
 
 
-   • Kiosco no cumple el patron Expert debido a que no se le otorga la informacion al experto 
-   en la informacion.
-   El tipo de cambio deberia ser una clase a parte para no generar conflicto con Kiosco debido 
-   a que no es el experto en esta informacion.
+   • Kiosco es el responsable de calcular el costo del alfajor, y estos datos se los pedia a Alfajor por lo cual no cumple el patron Expert
+   debido a que no se le otorga la informacion al experto en la informacion.
+    El tipo de cambio deberia ser una clase a parte para no generar conflicto con Kiosco debido a que no es el experto en esta informacion.
 
 
    • Alfajor si cumple con el patron Expert. Es el experto en la informacion de la responsabilidad que tiene.
      Alfajor deberia ser el responsable de hacer el calculo de precios o delegarle esta responsabilidad a otra clase que lo haga.
+     Ademas de que el costo del alfajor debe calcularlo él y no Kiosko
 
    
    Solucion:

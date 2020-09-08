@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\Ejercicios SRP-Expert\Ejercicio 1\src\program\bin\Debug\netcoreapp3.1\Expert_SRP.exe
+C:\Users\Administrador\Desktop\Ejercicios SRP-Expert\Ejercicio 1\src\program\bin\Debug\netcoreapp3.1\Expert_SRP.deps.json
+C:\Users\Administrador\Desktop\Ejercicios SRP-Expert\Ejercicio 1\src\program\bin\Debug\netcoreapp3.1\Expert_SRP.runtimeconfig.json
+C:\Users\Administrador\Desktop\Ejercicios SRP-Expert\Ejercicio 1\src\program\bin\Debug\netcoreapp3.1\Expert_SRP.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\Ejercicios SRP-Expert\Ejercicio 1\src\program\bin\Debug\netcoreapp3.1\Expert_SRP.dll
+C:\Users\Administrador\Desktop\Ejercicios SRP-Expert\Ejercicio 1\src\program\bin\Debug\netcoreapp3.1\Expert_SRP.pdb
+C:\Users\Administrador\Desktop\Ejercicios SRP-Expert\Ejercicio 1\src\program\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Administrador\Desktop\Ejercicios SRP-Expert\Ejercicio 1\src\program\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Administrador\Desktop\Ejercicios SRP-Expert\Ejercicio 1\src\program\obj\Debug\netcoreapp3.1\Expert_SRP.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Ejercicios SRP-Expert\Ejercicio 1\src\program\obj\Debug\netcoreapp3.1\Expert_SRP.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Ejercicios SRP-Expert\Ejercicio 1\src\program\obj\Debug\netcoreapp3.1\Expert_SRP.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Ejercicios SRP-Expert\Ejercicio 1\src\program\obj\Debug\netcoreapp3.1\Expert_SRP.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Ejercicios SRP-Expert\Ejercicio 1\src\program\obj\Debug\netcoreapp3.1\Expert_SRP.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Ejercicios SRP-Expert\Ejercicio 1\src\program\obj\Debug\netcoreapp3.1\Expert_SRP.dll
+C:\Users\Administrador\Desktop\Ejercicios SRP-Expert\Ejercicio 1\src\program\obj\Debug\netcoreapp3.1\Expert_SRP.pdb
+C:\Users\Administrador\Desktop\Ejercicios SRP-Expert\Ejercicio 1\src\program\obj\Debug\netcoreapp3.1\Expert_SRP.genruntimeconfig.cache
